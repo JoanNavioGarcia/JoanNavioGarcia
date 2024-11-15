@@ -1,6 +1,5 @@
-<div style="text-align: right;">
-  <img src="https://acortar.link/Z9vORw" alt="Sukuna Megumi Form" width="300px">
-</div>
+
+  <img src="https://acortar.link/Z9vORw" alt="Sukuna Megumi Form" align="right" width="300px">
 
 
 
