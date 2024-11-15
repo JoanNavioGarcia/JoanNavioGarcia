@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://futoikarasu.com/wp-content/uploads/2022/04/image-18.png" />
+  <img src="[https://futoikarasu.com/wp-content/uploads/2022/04/image-18.png](https://i.pinimg.com/736x/dd/22/27/dd22274f524329e3c78eff5008fbb5df.jpg)" />
 </p>
 ╭────┈ ↷
 │           ✎┊ ʙɪᴏɢʀᴀᴘʜʏ
