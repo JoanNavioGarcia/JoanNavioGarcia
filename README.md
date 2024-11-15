@@ -1,5 +1,5 @@
 ## Hi, I am Na.V <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> it's nice to meet you|
-  <img src="https://acortar.link/Z9vORw" alt="Sukuna Megumi Form" align="right" height="700px">
+  <img src="https://acortar.link/Z9vORw" alt="Sukuna Megumi Form" align="right" height="600px">
 
 
 
