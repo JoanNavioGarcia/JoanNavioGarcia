@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/736x/61/e9/aa/61e9aacf48c753949c566df5fbb83851.jpg" alt="cabezera" width="100%">
+<img src="https://i.pinimg.com/736x/61/e9/aa/61e9aacf48c753949c566df5fbb83851.jpg" alt="cabezera" height="200px" width="100%">
 
 ╭────┈ ↷  
 │           ✎┊ ʙɪᴏɢʀᴀᴘʜʏ  
