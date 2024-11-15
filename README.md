@@ -1,5 +1,5 @@
 
-  <img src="https://acortar.link/Z9vORw" alt="Sukuna Megumi Form" align="right" width="300px">
+  <img src="https://acortar.link/Z9vORw" alt="Sukuna Megumi Form" align="right" height="300px">
 
 
 
