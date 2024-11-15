@@ -1,12 +1,7 @@
 ╭───────────────────────────────────────༺♡༻───────────────────────────────────────╮
 ₊˚⊹⁠♡——————————————————————— Hi there, I am Na.V 👑‎ ——————————————————————♡⊹⁠˚₊
 ╰───────────────────────────────────────༺♡༻───────────────────────────────────────╯
-<p style="position: relative; float: right; width: 50%; text-align: center;">
-  <img src="https://acortar.link/QoVuvv" alt="Imagen de ejemplo" style="width: 100%; max-width: 300px;">
-  <span style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); color: white; font-size: 16px; background-color: rgba(0, 0, 0, 0.7); padding: 5px; border-radius: 5px;">
-    Texto sobre la imagen
-  </span>
-</p>
+<img src="https://camo.githubusercontent.com/4652dd5c41185bc9dd3bdda4e6240cab4efa58dfc9be8a7b0b083308033eafa2/68747470733a2f2f61636f727461722e6c696e6b2f516f56757676" alt="Sukuna Megumi Form" align="right" height="600px" data-canonical-src="https://acortar.link/QoVuvv" style="max-width: 100%;">
 
 
   
