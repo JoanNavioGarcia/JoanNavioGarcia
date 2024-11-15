@@ -1,5 +1,4 @@
-## Hi, I am Na.V <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> it's nice to meet you|
-<div>
+<h1 align="center">Hi there, I am Mei Sun 💗<img src="https://github.com/Kathryn-Jie/Kathryn-Jie/blob/main/wave.gif" width="60px"/></h1>
   <img src="https://acortar.link/Z9vORw" alt="Sukuna Megumi Form" align="right" height="600px">
 
 
@@ -15,5 +14,5 @@
 │  
 ╰------------ ~ thank you! ~  
 
-</div>
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=juanperez&show_icons=true&theme=radical)
