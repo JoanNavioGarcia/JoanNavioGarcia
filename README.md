@@ -3,7 +3,6 @@
 ╭────┈ ↷  
 │           ✎┊ ʙɪᴏɢʀᴀᴘʜʏ  
 │╭────────────╯  
-||
 ││ ✦ Pls check my bio:✦  
 ││• 🎓 | Estudiante de Desarrollo de Aplicaciones Multiplataforma ½  
 ││• 🛠️ | Aprendiendo Java y Pycharm 
