@@ -14,3 +14,6 @@
  ││
 ➴╚═══════════════════════════════════════╝➴
 
+![Versión](https://img.shields.io/badge/version-1.0.0-brightgreen)
+![Construcción](https://img.shields.io/github/actions/workflow/status/usuario/proyecto/build.yml)
+![Lenguaje](https://img.shields.io/github/languages/top/usuario/proyecto)
