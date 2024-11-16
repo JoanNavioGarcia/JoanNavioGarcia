@@ -5,7 +5,7 @@
 <hr>
   ➴╔═══════════════════════════════════════╗➴ <br>
 ‎‎ ‎‎ ‎ ‎ ‎|| • Hi little nerd, im Na.V this is my first year of Advanced level <br>
-    ||   of cross-platform application development 
+‎‎ ‎‎ ‎ ‎ ‎||   of cross-platform application development 
     || • Fun fact: I used to study in Sweden for 2 years.
     || • Text
     || • Text
