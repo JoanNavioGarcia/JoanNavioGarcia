@@ -4,7 +4,7 @@
 <img src="https://acortar.link/135Ntj" align="right" alt="Sukuna Megumi Form" height="600px" width="375px">
 <hr>
   ➴╔═══════════════════════════════════════╗➴ <br>
-‎‎ ‎‎ ‎ ‎ ‎|| • I'm a first-year graduate student.
+‎‎ ‎‎ ‎ ‎ ‎║ • I'm a first-year graduate student.
     || • I'm majoring in computer science.
     || • Fun fact: I used to study in Sweden for 2 years.
     || • Text
