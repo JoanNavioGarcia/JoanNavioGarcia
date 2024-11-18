@@ -17,6 +17,6 @@
   </a>
 </div>
 <hr>
-<img src="https://i.pinimg.com/736x/30/1e/d5/301ed5fcd76f5b3d829ee8178d339bc9.jpg" align="right" alt="Megumi" width="400px">
+<img src="https://i.pinimg.com/736x/a7/2c/56/a72c56f675b4f42174bcf96ef984ac82.jpg" align="right" alt="Megumi" width="400px">
 
 
