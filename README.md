@@ -17,6 +17,5 @@
   </a>
 </div>
 <hr>
-<img src="https://i.pinimg.com/736x/71/61/26/7161266571ddf281adfbfdbd6f51b9d5.jpg" align="center" alt="Sukuna Megumi Form" width="400px">
 
 
