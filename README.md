@@ -14,4 +14,5 @@
 </div>
 <hr>
 <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=jn_termi)
 
