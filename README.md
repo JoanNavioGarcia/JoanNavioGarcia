@@ -5,9 +5,9 @@
 <hr>
   ➴╔══════════════════════════════════════╗➴ <br>
 ‎‎ ‎‎ ‎ ‎ ‎|| • Hi little nerd, im Na.V this is my first year of Advanced level <br>
-‎‎ ‎‎ ‎ ‎ ‎||    of cross-platform application development <br>
+‎‎ ‎‎ ‎ ‎ ‎||   ‎ ‎  of cross-platform application development <br>
     || • Fun fact: Dicen que el alchol es malo a la larga, menos mal <br>
-    ||    que la tengo corta
+    ||  ‎ ‎ ‎   que la tengo corta
     || • Text
     ||
   ➴╚══════════════════════════════════════╝➴
