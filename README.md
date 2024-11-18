@@ -17,6 +17,6 @@
   </a>
 </div>
 <hr>
-<img src="https://i.pinimg.com/736x/76/4e/c8/764ec84aeeeb3dfef106da23c656e6d5.jpg" alt="Megumi height="300px" Fushiguro" width="100%">
+<img src="https://i.pinimg.com/736x/49/ec/b0/49ecb028eab1f828057a138a9a888e3e.jpg" alt="Megumi">
 
 
