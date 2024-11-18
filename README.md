@@ -14,14 +14,10 @@
 </div>
 <hr>
 <p align="center"><img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" />&nbsp;Git profile Trophies</p><br>
-<div align="left">
-  <a href="https://open.spotify.com/user/jn_termi">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=jn_termi&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
 <div align="center">
   <a href="https://open.spotify.com/user/jn_termi">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=jn_termi&count=5&unique=false" alt="Spotify recently played"  />
   </a>
 </div>
+
 
