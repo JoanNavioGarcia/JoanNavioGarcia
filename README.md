@@ -23,5 +23,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JoanNavioGarcia&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=onedark&hide_border=true&order=2" height="150" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=JoanNavioGarcia&radius=16&theme=one-dark&area=true&order=5&hide_border=true&hide_title=true" height="291" alt="activity-graph graph"  />
 </div>
+/
 
 
